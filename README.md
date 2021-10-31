@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>👨‍💻 about me </h1> 
+<h3>👨‍💻 about me </h3> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
