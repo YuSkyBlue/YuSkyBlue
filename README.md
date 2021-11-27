@@ -11,7 +11,6 @@
 
 
 <a href="https://github.com/whathe-downtown"><img src="https://img.shields.io/badge/%23181717-Github-white?style=flat-square&logo=Vimeo&logoColor=white&link=https://github.com/whathe-downtown"/></a>&nbsp
-<img src="https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736e2dc737e1975056cbf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">
 
 
 <!--
