@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChungKyu%20YU&fontSize=100)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whathe-downtown&show_icons=true&theme=default)
-
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whathe-downtown&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whathe-downtown&repo=convoychat" />
+</a>
 
 <h3>👨‍💻 about me </h3> 
 Most Used
