@@ -1,12 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChungKyu%20YU&fontSize=100)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whathe-downtown&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whathe-downtown&repo=convoychat" />
-</a>
 
 <h3>👨‍💻 about me </h3> 
 Most Used
