@@ -16,8 +16,10 @@ I am into new skills about Android  and making a Clean Code
 <p align="center">
 <a href="https://velog.io/@blue-sky"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@blue-sky"/></a>
 
-
+<img src="https://img.shields.io/badge/Kotlin-7382B5?&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-7382B5?&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Compose-3776AB?style=flat-square&logo=JetpackCompose&logoColor=White"/>
   <br>
  <img src="https://github-readme-stats.vercel.app/api?username=whathe-downtown&show_icons=true" height="150px"/>
