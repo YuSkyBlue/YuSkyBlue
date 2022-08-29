@@ -11,7 +11,7 @@ I like to "grow" by developing through learning and analysis with people who can
 I am into new skills about Android  and making a Clean Code
 </p>
 <h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 </h4>
-<p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Java,Kotlin,Python"/></p>
+<p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,Python"/></p>
 
 <h3 align="center">👨‍💻 about me </h3> 
 <p align="center">
