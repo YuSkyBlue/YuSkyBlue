@@ -8,7 +8,7 @@ Hi there 👋
 <br><br>
 I like to "grow" by developing through learning and analysis with people who can communication with problem things
 <br><br>
-<I am into new skills about Android  and making a Clean Code<
+I am into new skills about Android  and making a Clean Code
 </p>
 <h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 </h4>
 
