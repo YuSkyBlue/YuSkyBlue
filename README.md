@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height200&section=header&text=BlueSky&fontSize=90)
 
-<h2 align="center">  ☁️ I am currently looking for great opportunity as a Android developer  ☁️  </h2> 
+<h2>  ☁️ I am currently looking for great opportunity as a Android developer  ☁️  </h2> 
 <br>
 <p align="center">
 Hi there 👋
