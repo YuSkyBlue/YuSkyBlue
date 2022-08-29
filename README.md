@@ -1,8 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height200&section=header&text=BlueSky&fontSize=90)
-### Hi there 👋
 
-#### Contact :  dbcjdrb1997@gmail.com
+<h2 align="center">  ☁️ I am currently looking for great opportunity as a Android developer  ☁️  </h2> 
+<br>
+<p align="center">
+Hi there 👋
+<br>
+My goal is to be a IT CEO or 
+</p>
 #### 🌟 개발의 푸른별이 되고 싶은 안드로이드 개발자 유청규입니다
 #### ☁️  배움과 분석을 통해 개발을 하여 "성장"하는 것을 좋아합니다
 
