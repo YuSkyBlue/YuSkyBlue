@@ -13,6 +13,7 @@ I am into new skills about Android  and making a Clean Code
 <h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 </h4>
 <p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,Python"/></p>
 
+
 <h3 align="center">👨‍💻 about me </h3> 
 <p align="center">
 <a href="https://velog.io/@blue-sky"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@blue-sky"/></a>
