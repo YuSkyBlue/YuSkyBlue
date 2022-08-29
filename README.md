@@ -5,11 +5,12 @@
 <br>
 <p align="center">
 Hi there 👋
-<br>
-My goal is to be a IT CEO or 
+<br><br>
+I like to "grow" by developing through learning and analysis with people who can communication with problem things
+<br><br>
+<I am into new skills about Android  and making a Clean Code<
 </p>
-#### 🌟 개발의 푸른별이 되고 싶은 안드로이드 개발자 유청규입니다
-#### ☁️  배움과 분석을 통해 개발을 하여 "성장"하는 것을 좋아합니다
+<h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 </h4>
 
 
 <a href="https://velog.io/@blue-sky"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@blue-sky"/></a>
