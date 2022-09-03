@@ -10,7 +10,7 @@ I like to "grow" by developing through learning and analysis with people who can
 <br><br>
 I am into new skills about Android  and making a Clean Code
 </p>
-<h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 </h4>
+<h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 (a little) </h4>
 <p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,Python"/></p>
 
 
