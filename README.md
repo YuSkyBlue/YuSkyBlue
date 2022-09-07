@@ -13,6 +13,8 @@ I am into new skills about Android  and making a Clean Code
 <h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 (a little) </h4>
 <p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,Python"/></p>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=whathe-downtown&theme=onedark"/></p>
+
 
 <h3 align="center">👨‍💻 about me </h3> 
 <p align="center">
