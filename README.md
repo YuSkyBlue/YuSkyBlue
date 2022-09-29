@@ -4,7 +4,8 @@
 <h2 align="center">  ☁️ I am currently looking for great opportunity as a Android developer  ☁️  </h2> 
 <br>
 <p align="center">
-Hi there 👋
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhathe-downtown&count_bg=%231A3A87&title_bg=%23007FDC&icon=airplayvideo.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a></br>
+  Hi there 👋
 <br><br>
 I like to "grow" by developing through learning and analysis with people who can communication with problem things
 <br><br>
