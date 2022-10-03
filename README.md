@@ -9,7 +9,7 @@
 <br><br>
 I like to "grow" by developing through learning and analysis with people who can <a href="https://available-hamster-6b6.notion.site/Technical-Study-d653d98fe8454cf6a56cca388ed95bd4">communication<a/> with problem things
 <br><br>
-I am into new skills about Android  and making a Clean Code
+I am into new skills about Android  and making a Clean Code & <a href="https://github.com/skydoves/DisneyCompose/issues/26">issue solving</a>
 </p>
 <h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪 <br> Languages: 🇰🇷 🇺🇸 (a little) </h4>
 <p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,Python"/></p>
