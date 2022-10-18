@@ -27,9 +27,7 @@ I am into new skills about Android  and making a Clean Code & <a href="https://g
 
 <img src="https://img.shields.io/badge/Compose-3776AB?style=flat-square&logo=JetpackCompose&logoColor=White"/>
   <br>
- <img src="https://github-readme-stats.vercel.app/api?username=whathe-downtown&show_icons=true" height="150px"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whathe-downtown&layout=compact" height="150px"/>
+ 
  </p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=whathe-downtown&theme=onedark"/></p>
 
