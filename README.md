@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhathe-downtown&count_bg=%231A3A87&title_bg=%23007FDC&icon=airplayvideo.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a></br>
   
-<br><br>
+
 I like to "grow" by developing through learning and analysis with people who cancommunication with problem things
 <br><br>
 I am into new skills about Android  and making a Clean Code & <a href="https://github.com/skydoves/DisneyCompose/issues/26">Issue Solving</a>
@@ -29,8 +29,10 @@ I am into new skills about Android  and making a Clean Code & <a href="https://g
 <img src="https://img.shields.io/badge/Compose-3776AB?style=flat-square&logo=JetpackCompose&logoColor=White"/>
   <br> 
 </p>
-
+</br>
 
 ### Projects
+
+
 
 
