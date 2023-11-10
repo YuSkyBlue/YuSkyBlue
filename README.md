@@ -18,7 +18,6 @@ I am into new skills about Android  and making a Clean Code & <a href="https://g
 
  Languages: 🇰🇷 🇺🇸 (Normal) 
 
-<p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,Python"/></p>
 
 ## History
 
@@ -30,7 +29,6 @@ I am into new skills about Android  and making a Clean Code & <a href="https://g
 <img src="https://img.shields.io/badge/Compose-3776AB?style=flat-square&logo=JetpackCompose&logoColor=White"/>
   <br> 
 </p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=whathe-downtown&theme=onedark"/></p>
 
 
 ### Projects
